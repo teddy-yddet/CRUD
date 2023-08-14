@@ -1,0 +1,15 @@
+;aiu;
+
+[Update]
+Name = PrusaSlicer 2.5.2
+ProductVersion = 2.5.2.0
+URL = https://www.prusa3d.com/downloads/drivers/PrusaSlicer_Win_standalone_2.5.2.exe
+Size = 85814296
+ReleaseDate = 29/03/2023
+ServerFileName = prusaslicer_2.5.2.exe
+Flags = Critical|Sys64|NoCache
+RegistryKey = HKLM\SOFTWARE\Prusa Research\PrusaSlicer\Version
+Version = 2.5.2
+Description = PrusaSlicer 2.5.2
+Description1 = Full release log at: https://github.com/prusa3d/PrusaSlicer
+AutoCloseApplication = [APPDIR]\PrusaSlicer\prusa-slicer.exe
